@@ -20,3 +20,12 @@ projet_etl/
 ├── data/
 ├── logs/
 └── requirements.txt
+
+
+## 4. Avancées du projet
+
+- 05/12/2025 : 
+    - Création de l'environnement logiciel du projet
+    - Création d'un fichier diabetics_data.csv pour tester le workflow
+        diabetics_data.csv -> MinIo -> report.xlsx
+
