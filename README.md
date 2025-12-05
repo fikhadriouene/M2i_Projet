@@ -20,7 +20,7 @@ projet_etl/
 ├── data/
 ├── logs/
 └── requirements.txt
-
+```
 
 ## 4. Avancées du projet
 
