@@ -1,0 +1,16 @@
+# Extraction de données
+requests             # pour appels API
+pandas               # manipulation de CSV/Excel et DataFrame
+openpyxl             # lecture/écriture fichiers Excel
+xlrd                 # lecture fichiers Excel anciens formats
+
+# Chargement / stockage objet
+minio                # client MinIO/S3
+
+# Utilitaires
+pyyaml               # lecture fichiers YAML
+python-dotenv        # lecture fichiers .env
+loguru               # logging moderne et simple
+
+# Tests
+pytest               # framework de tests unitaires

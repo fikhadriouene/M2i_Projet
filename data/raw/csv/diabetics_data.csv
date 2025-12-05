@@ -1,0 +1,11 @@
+PatientID,FirstName,LastName,Sex,DateOfBirth,Country,City,PostalCode,BMI,BloodPressure,Glucose,Insulin,DiabetesPedigreeFunction,PhysicalActivity,Outcome
+1,John,Smith,Male,1978-05-12,USA,New York,10001,28.5,130,155,85,0.35,Medium,1
+2,Emma,Johnson,Female,1989-11-23,USA,Los Angeles,90001,22.1,120,90,15,0.12,High,0
+3,Michael,Williams,Male,1973-07-08,UK,London,EC1A1BB,31.7,140,180,120,0.58,Low,1
+4,Sophia,Brown,Female,1994-03-15,Canada,Toronto,M5H2N2,24.3,110,95,10,0.10,High,0
+5,David,Jones,Male,1964-12-30,Australia,Sydney,2000,29.8,150,200,150,0.72,Low,1
+6,Olivia,Miller,Female,1987-09-04,USA,Chicago,60601,26.5,125,105,30,0.25,Medium,0
+7,James,Davis,Male,1969-01-19,UK,Manchester,M1 1AE,32.0,145,170,130,0.65,Low,1
+8,Isabella,Garcia,Female,1982-08-27,Canada,Montreal,H3A1A1,23.8,118,98,20,0.18,Medium,0
+9,William,Martinez,Male,1975-06-14,USA,Houston,77001,27.5,135,160,95,0.40,Low,1
+10,Mia,Hernandez,Female,1988-02-02,Australia,Melbourne,3000,25.2,122,100,25,0.22,Medium,0
